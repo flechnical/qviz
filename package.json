@@ -1,5 +1,5 @@
 {
-  "name": "quiz",
+  "name": "vue-qviz",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -8,7 +8,10 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "bootstrap": "^4.5.2",
+    "bootstrap-vue": "^2.17.0",
     "core-js": "^3.6.5",
+    "lodash": "^4.17.20",
     "vue": "^2.6.11"
   },
   "devDependencies": {
